@@ -1,0 +1,139 @@
+element.style {
+}
+globalapptesting.com/media="all"
+#header-section {
+  line-height: 80px;
+}
+globalapptesting.com/media="all"
+.ha-header.ha-transparent {
+  background: transparent;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+globalapptesting.com/media="all"
+.ha-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  width: 100%;
+  padding: 0;
+  z-index: 10000;
+  -webkit-transform: translateY(0%);
+  -moz-transform: translateY(0%);
+  transform: translateY(0%);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+  -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+globalapptesting.com/media="all"
+article, aside, details, figcaption, figure, footer, header, nav, section {
+  display: block;
+}
+globalapptesting.com/media="all"
+*, *:after, *::before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+globalapptesting.com/media="all"
+* {
+  margin: 0;
+  padding: 0;
+}
+user agent stylesheetarticle, aside, footer, header, hgroup, main, nav, section {
+  display: block;
+}
+Inherited from body#ut-sitebody.home.page.page-id-11.page-parent.page-template-default
+body {
+  font-family: ralewayregular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+globalapptesting.com/media="all"
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
+  background: #FFFFFF;
+  font: 14px/22px "ralewayregular", Helvetica Neue, Helvetica, Arial, sans-serif;
+  color: #888888;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  letter-spacing: 0.5px;
+  overflow-x: hidden;
+}
+globalapptesting.com/media="all"
+body {
+  line-height: 1;
+}
+globalapptesting.com/media="all"
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+  border: 0;
+  font-family: inherit;
+  font-size: 100%;
+  font-style: inherit;
+  font-weight: inherit;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  vertical-align: baseline;
+}
+Inherited from html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths
+globalapptesting.com/media="all"
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+globalapptesting.com/media="all"
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+  border: 0;
+  font-family: inherit;
+  font-size: 100%;
+  font-style: inherit;
+  font-weight: inherit;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  vertical-align: baseline;
+}
+Pseudo ::before element
+globalapptesting.com/media="all"
+*, *:after, *::before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+Pseudo ::after element
+globalapptesting.com/media="all"
+*, *:after, *::before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+Pseudo ::selection element
+::selection {
+  background: #0BB697;
+}
+globalapptesting.com/media="all"
+::selection {
+  color: #FFFFFF;
+}
+
+position0
+0margin‒
+‒border‒
+‒padding‒
+‒1663 × 80‒
+‒‒
+‒‒
+‒‒
+‒
+
+.
+.
